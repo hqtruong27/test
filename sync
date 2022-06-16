@@ -1,0 +1,38 @@
+"workbench.colorCustomizations": {
+        "[Dracula Soft]": {}
+    },
+    "editor.tokenColorCustomizations": {
+        "[Dracula Soft]": {
+            "functions": {
+                "foreground": "#97E1F1",
+            },
+            "variables": {
+                "foreground": "#dbdbda"
+            },
+            "textMateRules": [
+                {
+                    "scope": "variable.other.readwrite",
+                    "settings": {
+                        "foreground": "#cebee4"
+                    }
+                }
+            ]
+        }
+    },
+    "editor.semanticTokenColorCustomizations": {
+        "[Dracula Soft]": {
+            "enabled": true,
+            "rules": {
+                "function": {
+                    "foreground": "#62E884",
+                },
+                "property": {
+                    "foreground": "#edc6ff"
+                },
+                "method": {
+                    "foreground": "#97E1F1",
+                },
+                "variable": {}
+            }
+        }
+    },
