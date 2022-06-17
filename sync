@@ -7,7 +7,7 @@
                 "foreground": "#97E1F1",
             },
             "variables": {
-                "foreground": "#A5C261"
+                "foreground": "#e0ce7a"
             },
             "textMateRules": [
                 {
