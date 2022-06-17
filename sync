@@ -7,7 +7,7 @@
                 "foreground": "#97E1F1",
             },
             "variables": {
-                "foreground": "#dbdbda"
+                "foreground": "#A5C261"
             },
             "textMateRules": [
                 {
@@ -27,7 +27,7 @@
                     "foreground": "#62E884",
                 },
                 "property": {
-                    "foreground": "#edc6ff"
+                    "foreground": "#e4b6fa"
                 },
                 "method": {
                     "foreground": "#97E1F1",
